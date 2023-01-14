@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himanshu Relhan
 - 👀 I’m interested in Website Development
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me https://www.linkedin.com/in/himanshu-relhan-015544198/
 
 <!---
